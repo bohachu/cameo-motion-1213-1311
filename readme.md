@@ -1,3 +1,29 @@
+---
+== 3* ==
+caro 004 仁翔 code 元件化
+002 讓首頁變好看一點（現在 header footer 難看）
+caro 001 目前 landing 出不來
+caro 003 把現在的內容，整合到 jupyterlab 遞交沒問題
+
+== 2* ==
+caro 002 目錄結構調整，學習amcharts 上到網址
+caro 005 動圖模板如何建構 003 建立可以讓使用者副本的 clone 機制，動圖可以單張編修
+004 建構 首頁 可以輪播的範本
+
+== 1* ==
+001 lib/1/ 位置全面調整為 amcharts like
+005 save csv to server 而且可以 load csv , by jexcel
+---
+
+2020-12-13 13:14 bowen
+為了讓 codesandbox 可以變成 public 無痕也能測試，方法是先 github 備份 private 再 import github 就可以了，現在的編輯
+
+https://codesandbox.io/s/cameo-motion-1213-1311-onstr?file=/readme.md
+
+https://github.com/bohachu/cameo-motion-1213-1311/settings/access
+
+都已經打開 chialolee 權限可以共同編輯程式碼
+
 2020-12-13 01:02 bowen
 
 已經製作兩款 client server 互通的實驗
