@@ -1,4 +1,12 @@
 ---
+2020-12-13 13:31 bowen
+大致研究出來 codesandbox github 爛掉同步的處理方式
+001 必須先 codesandbox 備份到 github cameo-motion-20201213-1332, then make github public
+002 create new codesandbox import github
+003 這樣就可後續修改並且重新 link github 回傳了
+
+---
+
 == 3* ==
 caro 004 仁翔 code 元件化
 002 讓首頁變好看一點（現在 header footer 難看）
